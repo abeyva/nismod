@@ -32,10 +32,3 @@ Nismod is a unique Android launcher that blends extreme minimalism with a playfu
 - **Minimum SDK:** Android 7.0 (Nougat)
 - **Architecture:** MVVM (Lightweight)
 
-## 📥 How to Install
-1. Download the latest `.apk` from the Releases section.
-2. Install on your Android device.
-3. Press "Home" and select **Nismod** as your default launcher.
-
----
-*Created with ❤️ by abeyva*
